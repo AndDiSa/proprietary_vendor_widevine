@@ -7,4 +7,6 @@ PRODUCT_PACKAGES += \
 	libwvdrmengine \
 	libwvdrm_L3 \
 	libwvm \
-	libWVStreamControlAPI_L3
+	libWVStreamControlAPI_L3 \
+	libdiag \
+	libQSEEComAPI
